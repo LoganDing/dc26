@@ -1,0 +1,5 @@
+https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
+
+echo '127.0.0.1 sandbox.hortonworks.com sandbox-hdp.hortonworks.com sandbox-hdf.hortonworks.com' | sudo tee -a /etc/hosts
+
+
