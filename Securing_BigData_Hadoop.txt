@@ -1,0 +1,13 @@
+Administration (Apache Ranger)
+Authentication (Kerberos, Apache Knox) using Ambari
+Authorization (Apache Ranger)
+Audit (Apache Ranger)
+Data Protection (built-in)
+
+
+Hadoop Frameworks for Security
+* Ranger
+* Knox
+* Atlas
+* HDFS Encryption
+
